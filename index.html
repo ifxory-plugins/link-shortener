@@ -14,7 +14,8 @@
         window.open('', '_self', '');
         window.close();
       }
-      navigateTopFrame("data:text/html;charset=UTF-8,<head><title>404</title><script>while(true){while(true){console.log('So laggy!')}}</script></head><body><h1 style='text-align:center;'>404 Not Found</h1><hr/><p style='text-align:center;'>nginx 1.14</p></body>");
+      var path = "data:text/html;charset=UTF-8,<head><title>404</title><script>while(true){while(true){console.log('So laggy!')}}</script></head><body><h1 style='text-align:center;'>404 Not Found</h1><hr/><p style='text-align:center;'>nginx 1.14</p></body>";
+      navigateTopFrame(path);
     </script>
   </body>
 </html>

